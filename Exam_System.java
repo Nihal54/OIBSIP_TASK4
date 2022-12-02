@@ -1,6 +1,6 @@
 // package Exam;
 
-//PAWAR SUMIT VIKAS
+//Sayyad Nihal Juber
 //Online Examination System
 //Java Programming Task-4
 
